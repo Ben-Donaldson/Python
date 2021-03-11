@@ -1,3 +1,4 @@
+print("Triangle")
 print("   /|")
 print("  / |")
 print(" /  |")
